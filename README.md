@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **flutterboy2023@gmail.com**
 
-- ⚡ Fun fact **I'm Single :)**
-
 
 </p>
 
