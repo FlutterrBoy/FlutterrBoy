@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishaq Saeed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterrboy&label=Profile%20views&color=0e75b6&style=flat" alt="flutterrboy" /> </p>
 
-- 🔭 I’m currently working on **Audio PLayer App**
+- 🔭 You can call me **FlutterBoy**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m a **Flutter Developer**
 
-- 💬 Ask me about **Flutter UI design**
+- 💬 Ask me about **Flutter UI design - Flutter & Dart - Firebase - Animation - Rive**
 
 - 📫 How to reach me **flutterboy2023@gmail.com**
 
