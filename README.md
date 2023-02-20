@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaq Saeed</h1>
+<h1 align="center">Hi 👋, I'm Ishaq Dahman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterrboy&label=Profile%20views&color=0e75b6&style=flat" alt="flutterrboy" /> </p>
 
 - 🔭 You can call me **FlutterBoy**
